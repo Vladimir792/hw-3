@@ -7,7 +7,7 @@ public class Main {
      System.out.println(" значение переменной byte с целочисленным типом равно " + b);
      short c = 30000;
      System.out.println(" значение переменной short с целочисленным типом равно " + c);
-     long d = 505505505;
+     long d = 505505505L;
      System.out.println(" значение переменной long с целочисленным типом равно " + d);
      float e = 3.17f;
      System.out.println(" значение переменной float с плавающей точкой равно " + e);
