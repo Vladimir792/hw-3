@@ -81,6 +81,7 @@ public class Main {
      System.out.println("Максимальное количество дней: " + daysAtMaxRate);
      System.out.println("Среднее количество дней: " + averageDays);
 
+
      System.out.println(" задание 8 ");
      double mashaSalary = 67760;
      double denisSalary = 83690;
